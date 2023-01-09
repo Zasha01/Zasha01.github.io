@@ -171,7 +171,7 @@ const workExperiences = {
     {
       role: "Internship (Cyber Security)",
       company: "Almadar",
-      companylogo: require("./assets/images/almdar.png"),
+      companylogo: require("./assets/images/almadar.png"),
       date: "October 2022",
       desc: "Insight to the security systems of a big telecommunication company",
       descBullets: [
